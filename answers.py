@@ -2,8 +2,10 @@
 my_list = []
 
 #append 10,20,30,40 to my_list
-for number in range(10,50,10):
-    my_list.append(number)             
+my_list.append(10)
+my_list.append(20)
+my_list.append(30)
+my_list.append(40)
 print(my_list)
 
 #insert 15 at index 1
